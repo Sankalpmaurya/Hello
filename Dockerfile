@@ -1,6 +1,6 @@
 FROM gcc:latest
 
-WORKDIR /home/jangoo/Hello
+WORKDIR Hello
 
 COPY . .
 
